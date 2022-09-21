@@ -26,3 +26,8 @@ print(
     "This one-line string was written out \
       using multiple lines"
 )
+# Exercise 5
+# Concatenate two strings together
+string_left = "bat"
+string_right = "man"
+print(string_left + string_right)
